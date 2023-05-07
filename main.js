@@ -39,3 +39,5 @@ buttons.forEach((btn)=>{
         })
     })
 })
+
+let x = 5;
