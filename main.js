@@ -6,8 +6,7 @@ buttons.forEach((btn)=>{
     btn.addEventListener("click",(b)=>{
 
         if(b.target.innerHTML === "C"){
-            str = ""
-            screen.value = str;
+            screen.value = "";
         }
         
         else if(b.target.innerHTML === "="){
